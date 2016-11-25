@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Explicit
     //  ทดสอบส่งข้อมูลจาก Desktop
+    // ทดสอบส่งจาก master
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
